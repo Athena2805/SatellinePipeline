@@ -1,0 +1,6 @@
+# Eclipse compiled binaries and settings
+bin/
+.settings/
+
+# macOS system files
+.DS_Store
